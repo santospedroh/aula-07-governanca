@@ -64,3 +64,9 @@ O que é esse tal de Code Owners? São literalmente pessoas ou equipes responsá
 
 Um template de arquivo `CODEOWNERS` pode ser encontrado [aqui](https://github.com/pedrolacerda/aula-07-governanca/blob/codeowners/.github/CODEOWNERS).
 
+1. Vá para o branch `main`
+2. Crie um arquivo chamado `CODEOWNERS` na pasta `.github`
+3. Copie e cole o conteúdo [deste aquivo](https://github.com/pedrolacerda/aula-07-governanca/blob/codeowners/.github/CODEOWNERS)
+4. :question: Como você alteraria esse arquivo para que alguns de seus colegas fossem requisitados a revisar código do PR?
+
+<!-- navegar e mostrar o ícone do Codeowners no PR e no arquivo -->
