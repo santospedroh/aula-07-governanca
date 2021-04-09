@@ -3,3 +3,5 @@
 ## Exercício
 
 Neste exercício vamos praticar conceitos de proteção de branches, regras de aprovação e validações obrigatórias de pull requests.
+
+teste
