@@ -92,4 +92,4 @@ Um template de arquivo `CODEOWNERS` pode ser encontrado [aqui](https://github.co
 4. Permitir _force pushes_
 5. Permitir deleções
 
-<!-- Porque nosso workflow dá erro?>
+<!-- Porque nosso workflow dá erro?-->
