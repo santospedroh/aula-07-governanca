@@ -28,7 +28,7 @@ Do jeito que nosso workflow está, caso o build falhasse, seria possível fazer 
 
 Vamos configurar qual(is) os status vindos do nosso pipeline deve obrigatoriamente passar antes de ser possível fazer o merge. Fazemos isso via proteção de branches (_"branch protection"_)
 
-:light-bulb: Dica: Imagine que as regras de proteção de branches vão impedir que certas operações de Git (merge, por exemplo) sejam executadas até que determinadas condições mínimas sejam atendidas.
+💡 Dica: Imagine que as regras de proteção de branches vão impedir que certas operações de Git (merge, por exemplo) sejam executadas até que determinadas condições mínimas sejam atendidas.
 
 1. Vá em `Settings` > `Branches`
 2. Na seção **Branch protection rules**, clique em `Add rule`
