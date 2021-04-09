@@ -67,6 +67,27 @@ Um template de arquivo `CODEOWNERS` pode ser encontrado [aqui](https://github.co
 1. Vá para o branch `main`
 2. Crie um arquivo chamado `CODEOWNERS` na pasta `.github`
 3. Copie e cole o conteúdo [deste aquivo](https://github.com/pedrolacerda/aula-07-governanca/blob/codeowners/.github/CODEOWNERS)
-4. :question: Como você alteraria esse arquivo para que alguns de seus colegas fossem requisitados a revisar código do PR?
+
+:question: Como você alteraria esse arquivo para que alguns de seus colegas fossem requisitados a revisar código do PR?
 
 <!-- navegar e mostrar o ícone do Codeowners no PR e no arquivo -->
+
+1. Mude novamente para o branch `novo-background`
+2. Navegue para o arquivo `views/index.pug`
+3. Edite as linhas **8 e 9** para que elas tenham o seguinte conteúdo
+
+```pug
+        h3 Making the Worst
+        h1 Coffee For Devs
+```
+
+:question: Como poderíamos alterar nosso arquivo `CODEOWNERS` para definir responsáveis para revisar alterações desse tipo?
+<!-- Explicar que podemos definir a regra para o arquivo específico, para esse tipo de arquivo ou para a pasta -->
+
+### 5. E o que mais?
+
+1. Obrigatório commits assinados
+2. Obrigatório histórico linear
+3. Incluir administradores sob as regras
+4. Permitir _force pushes_
+5. Permitir deleções
