@@ -12,7 +12,7 @@ Edite a linha **2** do arquivo `Dockerfile` para que a URL do label aponte para 
 
 1. Crie um novo branch chamado `novo-background`
 2. Na pasta `public` adicione este arquivo [coffe.jpg](https://github.com/pedrolacerda/aula-07-governanca/blob/novo-background/public/coffee.jpg) (via upload ou commit)
-3. Na pasta **public**, edite o arquivo `style.css`, na linha **154**.
+3. Na pasta **public**, edite o arquivo `style.css`, na linha **145**.
 
 ```css
 background: url("coffee.jpg") left bottom;
